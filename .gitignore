@@ -1,0 +1,5 @@
+.venv
+.env
+credentials*
+deleting_mails*
+mailing_list*
